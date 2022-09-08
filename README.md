@@ -30,3 +30,5 @@
 
 <h2>🤗 Perfil overview</h2>
 <img height="190em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Sryorg&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+
+![Snake animation](https://github.com/Sryorg/Sryorg/blob/output/github-contribution-grid-snake.svg)
